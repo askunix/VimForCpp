@@ -1,0 +1,9 @@
+推荐第一个, 稍微好看一点
+
+https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/DroidSansMono/complete/Droid%20Sans%20Mono%20Nerd%20Font%20Complete%20Mono%20Windows%20Compatible.otf
+
+https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/3270/Medium/complete/3270-Medium%20Nerd%20Font%20Complete%20Mono%20Windows%20Compatible.otf
+
+https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/AurulentSansMono/complete/AurulentSansMono-Regular%20Nerd%20Font%20Complete%20Mono%20Windows%20Compatible.otf
+
+https://github.com/artofrawr/powerline-fonts/tree/master/fonts/SFMono

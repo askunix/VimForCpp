@@ -1,0 +1,6 @@
+{
+  "initializationOptions": {
+      "cacheDirectory": "/tmp/cquery/cache"
+  }
+
+}
